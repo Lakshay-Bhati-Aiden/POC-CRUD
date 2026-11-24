@@ -56,8 +56,8 @@ Commands are shown for **Windows Command Prompt**; PowerShell and macOS/Linux ve
 ### 1. Clone the repository
 
 ```cmd
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Lakshay-Bhati-Aiden/POC-CRUD.git
+cd POC-CRUD
 ```
 
 ### 2. Create and activate a virtual environment
